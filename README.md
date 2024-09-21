@@ -1,5 +1,5 @@
-Hi I am @FaizanAhmad10. I am new in the Web Programming.
-I am currently learning in 5th sem. I am intrested in learning web development.
+Hi I am @FaizanAhmad10. I have a good experience in web development.
+I am currently learning in 7th sem. I am intrested in learning web development.
 
 
 <!---
